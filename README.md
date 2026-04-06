@@ -1,6 +1,6 @@
 # Quoter PDF Export Tool
 
-A PowerShell script that bulk-exports all quotes from [Quoter](https://www.quoter.com) (ScalePad CPQ) as PDF files for backup or archival.
+A PowerShell script that bulk-exports all quotes from Quoter as PDF files for backup or archival.
 
 Built for **MSPs and IT service providers** who want to maintain local backups of their quoting data.
 
@@ -19,7 +19,7 @@ Built for **MSPs and IT service providers** who want to maintain local backups o
 
 1. **A Quoter account** with Account Owner access
 2. **API credentials** — generate these in Quoter:
-   - Log in to [Quoter](https://app.quoter.com)
+   - Log in to Quoter
    - Go to **Account > API Keys**
    - Click **Create API Key**
    - Copy the **Client ID** and **Client Secret**
