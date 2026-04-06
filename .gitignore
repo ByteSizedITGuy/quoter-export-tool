@@ -1,0 +1,14 @@
+# Export output
+QuoterExport/
+quotes_pdf/
+
+# Config files with secrets
+*.env
+config.json
+*credentials*
+*secret*
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
